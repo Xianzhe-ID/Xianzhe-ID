@@ -1,12 +1,15 @@
 <p align="center">
- <a href="https://github.com/Xianzhe-ID"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ff&center=true&vCenter=true&multiline=false&lines=Welcome+to+my+Github+ʕ •ᴥ•ʔ;Don't+Forget+to+Follow+My+Github;Thanks+Guys+><" alt="Xianzhe ID">
+ <a href="https://github.com/Xianzhe-ID"><img src="http://readme-typing-svg.herokuapp.com?color=17E1E1&center=true&vCenter=true&multiline=false&lines=Welcome+to+my+Github+ʕ •ᴥ•ʔ;Don't+Forget+to+Follow+My+Github;Thanks+Guys+><" alt="Xianzhe ID">
 </p>
 <a align="center">
-   <img src="https://iili.io/DCbh5x.png" size500>
+   <img src="https://iili.io/DCbh5x.png">
 </a>
 
 -----
 <h1 align="center">──╍𝐗𝐢𝐚𝐧𝐳𝐡𝐞 𝐈𝐃╍──</h1>
+<div>
+<img src="https://i.imgur.com/Gw7yX3X.gif" size="70" align="right">
+<div>
 
 >𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔<br>
 ><a href="https://instagram.com/xianzhe_xx/">```Instagram```</a> <br>
