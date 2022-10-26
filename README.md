@@ -7,8 +7,9 @@
 
 -----
 <h1 align="center">──╍𝐗𝐢𝐚𝐧𝐳𝐡𝐞 𝐈𝐃╍──</h1>
-<div>
-<img src="https://i.imgur.com/Gw7yX3X.gif" size="70" align="right">
+
+ <div>
+<a href="https://github.com/xianzhe-id"><img src="https://i.imgur.com/Gw7yX3X.gif" width="192" align="right">
 <div>
 
 >𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔<br>
@@ -16,9 +17,9 @@
 ><a href="https://tiktok.com/xianzhe.id/">```TikTok```</a> <br>
 ><a href="https://wa.me/6285326781097?text=Hi">```WhatsApp```</a>
 
->𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗣<br>
-><a href="https://chat.whatsapp.com/HP5Pbp9MT0eIaC5lfJgw9A">```Group1```</a> |  Normal<br>
-><a href="https://chat.whatsapp.com/Fia1wnVRtJKGlqFiHfiAA8">```Group2```</a> |  Only 18+<br>
+>𝗚𝗥𝗢𝗨𝗣 𝗖𝗛𝗔𝗧<br>
+><a href="https://chat.whatsapp.com/HP5Pbp9MT0eIaC5lfJgw9A">```Group1```</a> <br>
+><a href="https://chat.whatsapp.com/Fia1wnVRtJKGlqFiHfiAA8">```Group2```</a> <br>
 
 >𝗗𝗢𝗡𝗔𝗧𝗘<br>
 ><a href="https://iili.io/Dj2K2n.jpg">```OVO```</a><br>
