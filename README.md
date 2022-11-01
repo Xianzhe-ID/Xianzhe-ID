@@ -1,11 +1,9 @@
-<a align="center">
-   <img src="https://iili.io/DCbh5x.png">
-</a>
-</br>
-</br>
 <h1 align="center">───╍𝐗𝐢𝐚𝐧𝐳𝐡𝐞 𝐈𝐃╍───</h1>
-<hr><a href="https://github.com/Xianzhe-ID"><img src="http://readme-typing-svg.herokuapp.com?color=17E1E1&center=true&vCenter=true&multiline=false&lines=Welcome+to+my+Github+ʕ •ᴥ•ʔ;Don't+Forget+to+Follow+My+Github;Thanks+Guys+><" alt="Xianzhe ID"><hr>
-<div>
+<a href="https://github.com/Xianzhe-ID"><img src="https://telegra.ph/file/b9d4ad7ec95a43e289eac.jpg" width="1000" align="center" alt="XianzheID"></a>
+</br>
+</br>
+<a href="https://github.com/Xianzhe-ID"><img src="http://readme-typing-svg.herokuapp.com?color=17E1E1&center=true&vCenter=true&multiline=false&lines=Welcome+to+my+Github+ʕ •ᴥ•ʔ;Don't+Forget+to+Follow+My+Github;Thanks+Guys+><" alt="Xianzhe ID">
+<div><hr>
   <a href="https://github.com/xianzhe-id"><img src="https://i.imgur.com/MYiQwIn.gif" width="236" align="right">
 <div>
 
@@ -21,7 +19,12 @@
 <a href="https://iili.io/Dj2f7s.png">```Dana```</a><br>
 <a href="https://saweria.co/xianzhe">```Saweria```</a><hr>
 
-<h2 align="center">────╍ 𝐍𝐎𝐓𝐄 ╍────</h2>
 
+<h2>NOTE</h2>
+<blockquote>
+<h5>ID</h5>
+JIKA MENEMUKAN BUG/EROR BISA REPORT KE WHATSAPP ATAU INSTAGRAM SAYA<br>
+<h5>ENG</h5>
+IF YOU FIND BUGS/ERORS CAN REPORT TO MY WHATSAPP OR INSTAGRAM
 
-<blockquote>Life will always have a different plan for you. If you don’t give up, you will eventually get to your destination. But towards the end of your life, you may look back and realize that it was never really about the destination; it was the journey that counted.
+That is all and thank you
