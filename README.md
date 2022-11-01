@@ -4,7 +4,7 @@
 </br>
 <a href="https://github.com/Xianzhe-ID"><img src="http://readme-typing-svg.herokuapp.com?color=17E1E1&center=true&vCenter=true&multiline=false&lines=Welcome+to+my+Github+ʕ •ᴥ•ʔ;Don't+Forget+to+Follow+My+Github;Thanks+Guys+><" alt="Xianzhe ID">
 <div><hr>
-  <a href="https://github.com/xianzhe-id"><img src="https://i.imgur.com/MYiQwIn.gif" width="236" align="right">
+<a href="https://github.com/xianzhe-id"><img src="https://i.imgur.com/MYiQwIn.gif" width="236" align="right">
 <div>
 
 𝗦𝗢𝗦𝗠𝗘𝗗<br>
@@ -20,7 +20,7 @@
 <a href="https://saweria.co/xianzhe">```Saweria```</a><hr>
 
 
-<h2>𝐍𝐎𝐓𝐄<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="55"></h2>
+<h1>𝐍𝐎𝐓𝐄<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="55"></h1>
 <blockquote>
 //JIKA MENEMUKAN BUG/EROR BISA REPORT KE WHATSAPP ATAU INSTAGRAM SAYA<br>
 //IF YOU FIND BUGS/ERORS CAN REPORT TO MY WHATSAPP OR INSTAGRAM</h6>
