@@ -20,11 +20,10 @@
 <a href="https://saweria.co/xianzhe">```Saweria```</a><hr>
 
 
-<h2>NOTE</h2>
+<h1>NOTE</h1>
 <blockquote>
-<h5>ID</h5>
+<h2>ID</h2>
 JIKA MENEMUKAN BUG/EROR BISA REPORT KE WHATSAPP ATAU INSTAGRAM SAYA<br>
-<h5>ENG</h5>
+<h2>ENG</h2>
 IF YOU FIND BUGS/ERORS CAN REPORT TO MY WHATSAPP OR INSTAGRAM
 
-That is all and thank you
