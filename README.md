@@ -3,10 +3,10 @@
 </a>
 </br>
 </br>
-<h1 align="center">──╍𝐗𝐢𝐚𝐧𝐳𝐡𝐞 𝐈𝐃╍──</h1>
+<h1 align="center">───╍𝐗𝐢𝐚𝐧𝐳𝐡𝐞 𝐈𝐃╍───</h1>
 <hr><a href="https://github.com/Xianzhe-ID"><img src="http://readme-typing-svg.herokuapp.com?color=17E1E1&center=true&vCenter=true&multiline=false&lines=Welcome+to+my+Github+ʕ •ᴥ•ʔ;Don't+Forget+to+Follow+My+Github;Thanks+Guys+><" alt="Xianzhe ID"><hr>
 <div>
-  <a href="https://github.com/xianzhe-id"><img src="https://i.imgur.com/looze9c.gif" width="236" align="right">
+  <a href="https://github.com/xianzhe-id"><img src="https://i.imgur.com/MYiQwIn.gif" width="236" align="right">
 <div>
 
 𝗦𝗢𝗦𝗠𝗘𝗗
