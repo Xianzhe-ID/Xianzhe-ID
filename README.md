@@ -20,7 +20,10 @@
 <a href="https://saweria.co/xianzhe">```Saweria```</a><hr>
 
 
+<h2>𝐍𝐎𝐓𝐄<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="55"></h2>
 <blockquote>
-<h6>𝗡𝗢𝗧𝗘 :<br>//JIKA MENEMUKAN BUG/EROR BISA REPORT KE WHATSAPP ATAU INSTAGRAM SAYA<br>
+//JIKA MENEMUKAN BUG/EROR BISA REPORT KE WHATSAPP ATAU INSTAGRAM SAYA<br>
 //IF YOU FIND BUGS/ERORS CAN REPORT TO MY WHATSAPP OR INSTAGRAM</h6>
-
+</blockquote>
+<hr>
+<a href="https://instagram.com/xianzhe_xx"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Xianzhe ID">
