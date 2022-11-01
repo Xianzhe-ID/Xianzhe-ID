@@ -26,4 +26,6 @@
 //IF YOU FIND BUGS/ERORS CAN REPORT TO MY WHATSAPP OR INSTAGRAM</h6>
 </blockquote>
 <hr>
-<a href="https://instagram.com/xianzhe_xx"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Xianzhe ID">
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
