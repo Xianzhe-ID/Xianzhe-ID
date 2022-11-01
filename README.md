@@ -9,7 +9,7 @@
   <a href="https://github.com/xianzhe-id"><img src="https://i.imgur.com/MYiQwIn.gif" width="236" align="right">
 <div>
 
-𝗦𝗢𝗦𝗠𝗘𝗗
+𝗦𝗢𝗦𝗠𝗘𝗗<br>
 <a href="https://instagram.com/xianzhe_xx/">```Instagram```</a> <br>
 <a href="https://tiktok.com/xianzhe.id/">```TikTok```</a> <br>
 <a href="https://wa.me/6285326781097?text=Hi">```WhatsApp```</a><hr>
