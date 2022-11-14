@@ -24,14 +24,17 @@
 //JIKA MENEMUKAN BUG/EROR BISA REPORT KE WHATSAPP ATAU INSTAGRAM SAYA<br>
 //IF YOU FIND BUGS/ERORS CAN REPORT TO MY WHATSAPP OR INSTAGRAM</h6>
 </blockquote>
-<hr>
-------
  
 ### Github Stats 
+<hr>
 
 ![Github stat](https://github-readme-stats.vercel.app/api?username=Xianzhe-ID&theme=midnight-purple&show_icons=true) 
 
+<hr>
+
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xianzhe-ID&theme=tokyonight)
+
+<hr>
 
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
