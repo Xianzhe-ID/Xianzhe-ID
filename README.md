@@ -2,10 +2,8 @@
 <a href="https://github.com/Xianzhe-ID"><img src="https://telegra.ph/file/b9d4ad7ec95a43e289eac.jpg" width="1000" align="center" alt="XianzheID"></a>
 </br>
 </br>
-<a href="https://github.com/Xianzhe-ID"><img src="http://readmtyping-svg.herokuapp.com?color=17E1E1&center=true&vCenter=true&multiline=false&lines=Welcome+to+my+Github+ʕ •ᴥ•ʔ;Don't+Forget+to+Follow+My+Github;Thanks+Guys+><" alt="Xianzhe ID">
-
 <div><hr>
-<a href="https://github.com/xianzhe-id"><img src="https://i.imgur.com/MYiQwIn.gif" width="236" alt="XianzheID" align="right">
+<a href="https://github.com/xianzhe-id"><img src="https://i.imgur.com/MYiQwIn.gif" width="236" align="right">
 <div>
 
 𝗦𝗢𝗦𝗠𝗘𝗗<br>
@@ -27,6 +25,13 @@
 //IF YOU FIND BUGS/ERORS CAN REPORT TO MY WHATSAPP OR INSTAGRAM</h6>
 </blockquote>
 <hr>
+------
+ 
+### Github Stats 
+
+![Github stat](https://github-readme-stats.vercel.app/api?username=Xianzhe-ID&theme=midnight-purple&show_icons=true) 
+
+![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xianzhe-ID&theme=tokyonight)
 
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
