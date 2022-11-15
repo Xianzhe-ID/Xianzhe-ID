@@ -1,10 +1,8 @@
-<h1 align="center">───╍𝐗𝐢𝐚𝐧𝐳𝐡𝐞 𝐈𝐃╍───</h1>
+<h1 align="center">『 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 』</h1>
 <a href="https://github.com/Xianzhe-ID"><img src="https://telegra.ph/file/b9d4ad7ec95a43e289eac.jpg" width="1000" align="center" alt="XianzheID"></a>
 </br>
-</br>
-<div><hr>
+<hr>
 <a href="https://github.com/xianzhe-id"><img src="https://i.imgur.com/MYiQwIn.gif" width="236" align="right">
-<div>
 
 𝗦𝗢𝗦𝗠𝗘𝗗<br>
 <a href="https://instagram.com/xianzhe_xx/">```Instagram```</a> <br>
@@ -24,17 +22,18 @@
 //JIKA MENEMUKAN BUG/EROR BISA REPORT KE WHATSAPP ATAU INSTAGRAM SAYA<br>
 //IF YOU FIND BUGS/ERORS CAN REPORT TO MY WHATSAPP OR INSTAGRAM</h6>
 </blockquote>
- 
-### Github Stats 
+<h2 align="center">『 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 』</h2>
 <hr>
 
 ![Github stat](https://github-readme-stats.vercel.app/api?username=Xianzhe-ID&theme=midnight-purple&show_icons=true) 
 
 <hr>
-
-![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xianzhe-ID&theme=tokyonight)
-
+<h2 align="center">『 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭 』</h2>
+<hr>
+<a href="https://github.com/Xianzhe-ID/XiaFeixuan-Bot/tree/XiaFeixuan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Xianzhe-ID&repo=XiaFeixuan-Bot&theme=dark" align="center" alt="XianzheID">
+<a href="https://github.com/Xianzhe-ID/AnnieBot-MD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Xianzhe-ID&repo=AnnieBot-MD&theme=dark" align="center" alt="XianzheID">
+</br>
 <hr>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![𝐄𝐫𝐫𝐨𝐫](github-snake.svg#gh-light-mode-only)
+![𝐄𝐫𝐫𝐨𝐫](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
