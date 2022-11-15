@@ -25,8 +25,7 @@
 
 <h1>𝐍𝐎𝐓𝐄<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="55"></h1>
 <blockquote>
->|JIKA MENEMUKAN BUG/EROR BISA REPORT KE WHATSAPP ATAU INSTAGRAM SAYA<br>
->|IF YOU FIND BUGS/ERORS CAN REPORT TO MY WHATSAPP OR INSTAGRAM
+IF YOU FIND BUGS/ERORS CAN REPORT TO MY WHATSAPP OR INSTAGRAM
 </blockquote>
 <h2 align="center">『 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 』</h2>
 <hr>
