@@ -1,3 +1,4 @@
+
 <h1 align="center">『 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 』</h1>
 <a href="https://github.com/Xianzhe-ID"><img src="https://telegra.ph/file/b9d4ad7ec95a43e289eac.jpg" width="1000" align="center" alt="XianzheID"></a>
 <HR>
@@ -24,8 +25,8 @@
 
 <h1>𝐍𝐎𝐓𝐄<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="55"></h1>
 <blockquote>
-//JIKA MENEMUKAN BUG/EROR BISA REPORT KE WHATSAPP ATAU INSTAGRAM SAYA<br>
-//IF YOU FIND BUGS/ERORS CAN REPORT TO MY WHATSAPP OR INSTAGRAM</h6>
+>|JIKA MENEMUKAN BUG/EROR BISA REPORT KE WHATSAPP ATAU INSTAGRAM SAYA<br>
+>|IF YOU FIND BUGS/ERORS CAN REPORT TO MY WHATSAPP OR INSTAGRAM
 </blockquote>
 <h2 align="center">『 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 』</h2>
 <hr>
