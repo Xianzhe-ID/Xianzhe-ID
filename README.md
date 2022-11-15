@@ -2,7 +2,7 @@
 <h1 align="center">『 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 』</h1>
 <a href="https://github.com/Xianzhe-ID"><img src="https://telegra.ph/file/b9d4ad7ec95a43e289eac.jpg" width="1000" align="center" alt="XianzheID"></a>
 <HR>
-<a href="https://github.com/xianzhe-id"><img src="https://i.imgur.com/MYiQwIn.gif" width="236" align="right">
+<a href="https://github.com/xianzhe-id"><img src="https://i.imgur.com/MYiQwIn.gif" width="235" align="right">
 
 𝗦𝗢𝗦𝗠𝗘𝗗<br>
 <a href="https://www.instagram.com/xianzhe_xx">
